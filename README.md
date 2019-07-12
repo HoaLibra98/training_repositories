@@ -30,9 +30,13 @@
   - Ví dụ như thêm readme.md cho từng demo. Hướng dẫn các đoạn code. Fix errors
   - You are welcome
  
+<<<<<<< HEAD
  @luu thi hoa updated 19:43
  
  @luuthihoa 19:55
+=======
+ @luu thi hoa 7:54
+>>>>>>> ced0cf12ba682d7fb22d5ac4dd8f66c890dfb6c6
 
 ## License
 
